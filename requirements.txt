@@ -1,0 +1,9 @@
+streamlit
+requests
+python-dotenv
+numpy
+pypdf
+pandas
+beautifulsoup4
+python-docx
+sentence-transformers
